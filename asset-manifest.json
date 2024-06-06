@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Torrent2.0/static/css/main.4d4837a0.css",
+    "main.js": "/Torrent2.0/static/js/main.7bc51ecd.js",
+    "static/js/453.ed3810f9.chunk.js": "/Torrent2.0/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Torrent2.0/index.html",
+    "main.4d4837a0.css.map": "/Torrent2.0/static/css/main.4d4837a0.css.map",
+    "main.7bc51ecd.js.map": "/Torrent2.0/static/js/main.7bc51ecd.js.map",
+    "453.ed3810f9.chunk.js.map": "/Torrent2.0/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4837a0.css",
+    "static/js/main.7bc51ecd.js"
+  ]
+}
